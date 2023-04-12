@@ -1,2 +1,2 @@
-# phaseX_test
-Phase X test for .
+# phase1_test
+Phase 1 test for familiarizing oneself with Codasip.
